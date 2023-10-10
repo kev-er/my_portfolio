@@ -1,0 +1,85 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "My Portfolio",
+            "bodyText": "- My Portfolio Website made in React\n -  Fully customisable and dynamic\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/ash_kennels.png",
+            "title": "Ash Kennels",
+            "bodyText": "- A modern and responsive website for a dog kennels that prioritises a user-friendly design. The site will highlight a diverse range of interactive services, providing a comprehensive platform for all dog-related needs",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kev-er/Ash_Kennels"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://stately-bunny-f1e8bf.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstap"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Mentor Website",
+            "bodyText": "- sleek and minimalistic website designed for a professional mentor, targeting prospective clients. The website is fully responsive, ensuring an optimal user experience across devices.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kev-er/stronger-together-mentoring"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://gilded-raindrop-d16b8f.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/razor_king.png",
+            "title": "Razor King Barbers",
+            "bodyText": "-  A straightforward barber website with a strong emphasis on responsiveness, speed, and user-friendly navigation.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kev-er/razor_king_barber"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://cute-piroshki-88d7f7.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+           ]
+}

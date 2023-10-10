@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Learning Specialist",
+            "subtitle": "Foundever",
+            "workType": "Full-time",
+            "workDescription": [
+                "Accountable for training, onboarding, and upskilling 150 CSR/product specialists for a medical company specialising in diabetes devices on their helpline.",
+                "Serve as the senior trainer for four distinct lines of business across Europe as I have the widest range of technological knowledge.",
+                "Responsible for 'training the trainers.'"
+            ],
+            "dateText": "12/2020 – Present"
+        },
+        {
+            "title": "Mechanical Engineer",
+            "subtitle": "AP Diesels",
+            "workType": "Full-time",
+            "workDescription": [
+                "In my role as a mechanical engineer, I excelled in the reconditioning of diesel injectors, ensuring punctual delivery and meeting stringent quality standards. This position required robust self-management skills, as I was solely responsible for ensuring orders were fulfilled on time."
+            ],
+            "dateText": "04/2020 – 12/2020"
+        },
+        {
+            "title": "Lead Barista",
+            "subtitle": "Artizian Catering",
+            "workType": "Full-time",
+            "workDescription": [
+                "As the lead Barista, I managed site allegiance and oversaw operations in the manager's absence, demonstrating leadership and accountability."
+            ],
+            "dateText": "8/2019 – 03/2020"
+        }
+    ]
+}
