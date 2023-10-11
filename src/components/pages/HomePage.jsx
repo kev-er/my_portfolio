@@ -7,10 +7,11 @@ import Techs from "./homepage-comps/Techs"
 import Contact from "./homepage-comps/Contact"
 import CertificateSlider from './homepage-comps/CertificateSlider'
 
-const HomePage = () => {
+ const HomePage = () => {
     const certificates = [
-   /*      {image: '/images/certificates/diploma-frontend-academlo.webp'}, */
-    ];
+         {image: '/images/certificates/A-Level-equivalent-a.webp'}, 
+         {image: '/images/certificates/A-Level-equivalent-b.webp'}, 
+     ];
 
 
     useEffect(() => {
@@ -24,7 +25,7 @@ const HomePage = () => {
             <About />
             <MyProjects />
             <Techs />
-            <CertificateSlider certificates={certificates} />
+/*             <CertificateSlider certificates={certificates} /> */
             <Contact />
         </>
     )

@@ -13,7 +13,7 @@ const MobileSocialLinks = () => {
                     <FaLinkedin size={20} /> LinkedIn
                 </>
             ),
-            href: 'https://www.linkedin.com/in/kevin-holm-02b619265/',
+            href: 'https://www.linkedin.com/in/kev-holm/',
             style: 'rounded-tr-md'
         },
         {
