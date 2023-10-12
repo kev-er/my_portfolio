@@ -14,7 +14,7 @@ const About = () => {
                         <h2 className='text-4xl sm:text-5xl font-bold inline border-b-4 border-primary-color/40'>About me</h2>
                     </div>
 
-                    <p className="mb-4 py-6">Hi! I'm a self-taught Frontend Developer. The past few years I have been working for a medical company as a learninig specialist on their product support help line. My job have been to train, support and upskill the staff over four different lines of buisness. This experience has given me incredible opportunities to collaborate with diverse teams and shoulder substantial responsibilities which I am exited to bring with wherever I go next. </p>
+                    <p className="mb-4 py-6">Hi! I'm a self-taught Frontend Developer. The past few years I have been working for a medical company as a learninig specialist on their product support help line. My job has been to train, support and upskill the staff over four different lines of buisness. This experience has given me incredible opportunities to collaborate with diverse teams and shoulder substantial responsibilities which I am exited to bring with wherever I go next. </p>
 
 
                     <Link to='/about-me' className='text-black font-semibold text-[16px] w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-t from-green-400 to-primary-color cursor-pointer mx-auto md:mx-0 self-end mt-8 hover:scale-110 duration-300'>
