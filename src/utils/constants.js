@@ -5,8 +5,8 @@ const projects = [
     description: "A place to showcase my work",
     technologies: "Javascript, React, Tailwind CSS",
     src: "/images/projectsImages/portfolio.webp",
-    demo: "https://easyshop-bydt.netlify.app/",
-    code: "https://github.com/diegotellezc/EasyShop",
+    demo: "https://kevin-holm.netlify.app/",
+    code: "https://github.com/kev-er/my_portfolio",
   },
   {
     id: 2,
