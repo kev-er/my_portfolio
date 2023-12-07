@@ -48,14 +48,13 @@ const MyProjects = () => {
             to="projects"
             className="hover:underline hover:underline-offset-4 hover:text-primary-color/60 cursor-pointer text-gray-300 flex items-center"
           >
-            See more projects
             <MdOutlineKeyboardArrowRight size={20} />
           </Link>
         </div>
       </div>
 
       <ScrollLink
-        to="Technologies"
+        to="Contact"
         smooth
         duration={500}
         className="absolute bottom-2 -left-full md:left-1/2 md:-translate-x-1/2 cursor-pointer hover:text-primary-color"

@@ -67,9 +67,6 @@ const Techs = () => {
       title: "SASS",
       style: "shadow",
     },
- 
-
- 
   ];
 
   return (
@@ -99,7 +96,7 @@ const Techs = () => {
       </div>
 
       <ScrollLink
-        to="Contact"
+        to="Projects"
         smooth
         duration={500}
         className="absolute bottom-2 -left-full md:left-1/2 md:-translate-x-1/2 cursor-pointer hover:text-primary-color"

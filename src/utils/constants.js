@@ -12,7 +12,7 @@ const projects = [
     id: 2,
     title: "Ash Kennels",
     description:
-      "A dog kennel wibsite create wit Html, CSS, Javascript and bootstrap.",
+      "A dog kennel website create wit Html, CSS, Javascript and bootstrap.",
     technologies: "Javascript, HTML5,  CSS, bootstrap",
     src: "/images/projectsImages/ash_kennels.webp",
     demo: "https://stately-bunny-f1e8bf.netlify.app/",
@@ -20,7 +20,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Professionnel Mentor website",
+    title: "Professional Mentor website",
     description:
       "A sleek and minimalistic website designed for a professional mentor, targeting prospective clients. ",
     technologies: "Javascript, HTML5, CSS3",
@@ -38,7 +38,6 @@ const projects = [
     demo: "https://cute-piroshki-88d7f7.netlify.app/",
     code: "https://github.com/kev-er/razor_king_barber",
   },
-
 ];
 
 export default projects;
