@@ -38,6 +38,17 @@ const projects = [
     demo: "https://cute-piroshki-88d7f7.netlify.app/",
     code: "https://github.com/kev-er/razor_king_barber",
   },
+   {
+    id: 4,
+    title: "Counselling Website",
+    description:
+      "A straightforward barber website with a strong emphasis on responsiveness,speed, and user-friendly navigation.",
+    technologies: "HTML5, CSS3, Javascript",
+    src: "/images/projectsImages/razor_king.webp",
+    demo: "https://cute-piroshki-88d7f7.netlify.app/",
+    code: "https://github.com/kev-er/razor_king_barber",
+  },
+
 ];
 
 export default projects;

@@ -14,7 +14,7 @@ const GeneralFooter = () => {
                 </a>
             </div>
 
-            <p className='md:order-2'>• Copyright ©2023 | All rights reserved • </p>
+            <p className='md:order-2'>Kevin Holm • Copyright ©2025 | All rights reserved • </p>
         </footer>
     )
 }

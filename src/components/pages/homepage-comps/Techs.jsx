@@ -65,7 +65,7 @@ const Techs = () => {
       id: 9,
       src: sass,
       title: "SASS",
-      style: "shadow",
+      style: "shadow-white",
     },
   ];
 
