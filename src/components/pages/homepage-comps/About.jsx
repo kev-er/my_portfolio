@@ -17,13 +17,14 @@ const About = () => {
         </div>
 
         <p className="mb-4 py-6">
-          Hi! I'm a self-taught Frontend Developer. The past few years I have
-          been working for a medical company as a learning specialist on their
-          product support help line. My job has been to train, support and up
-          skill the staff over four different lines of business. This experience
-          has given me incredible opportunities to collaborate with diverse
-          teams and shoulder substantial responsibilities which I am exited to
-          bring with wherever I go next.{" "}
+        Hey, I’m Kevin—a self-taught Frontend Developer and tech enthusiast who’s been all-in on Linux since 2020.
+
+I come from a Learning & Development background, working in an outsourced call center, training and upskilling teams for major clients like Medtronic and Intuit QuickBooks Online.
+<br /><br />This experience sharpened my ability to break down complex topics, collaborate across teams, and take on high-level responsibilities—skills that now fuel my approach to development.
+
+These days, I’m deep into HTML, CSS, JavaScript, and Next.js, building sleek, accessible, and user-friendly web experiences.<br /><br /> But my passion doesn’t stop at the frontend—I’m diving into full-stack development, exploring backend technologies to create scalable, end-to-end solutions.
+
+Always learning, always building—let’s connect and make something awesome🚀{" "}
         </p>
 
         <Link

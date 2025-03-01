@@ -9,7 +9,8 @@ const AboutPage = () => {
 
   return (
     <>
-      <NavbarVideos />
+      <Navbar />
+
       <AboutSectionAbout />
       <Edition />
 
