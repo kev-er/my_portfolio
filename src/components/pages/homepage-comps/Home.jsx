@@ -11,7 +11,7 @@ const Home = () => {
 
           <div className='flex flex-col justify-center items-center h-[85%] md:h-full order-2 md:order-1 md:items-start'>
             
-            <h1 className='text-4xl md:text-6xl font-bold text-white mb-2 mt-3 md:mt-0 md:mb-4'>I'm Kevin Holm</h1>
+            <h1 className='text-4xl md:text-6xl font-bold text-white mb-2 mt-3 md:mt-0 md:mb-4'>Hi,<br/> I'm Kevin Holm</h1>
             <h2 className='rounded-md bg-primary-color/20 max-w-max px-6 inline text-xl md:text-3xl lg:text-4xl font-semibold text-white'>A Front End Developer</h2>
             <p className='text-gray-300 py-4 max-x-md text-justify'>Living in the UK, England, Guildford area, Surrey.</p>
            <p className='text-gray-300 py-4 max-x-md text-justify'>
@@ -29,7 +29,7 @@ const Home = () => {
           </div>
 
           <div className='flex order-1 md:order-2 mt-8 md:mt-0'>
-              <img src="/images/profile.webp" alt="My profile" className='mb-2 rounded-2xl mx-auto w-2/3 max-w-lg md:max-w-sm object-cover md:w-[70rem] shadow-2xl shadow-primary-color/20' style={{ filter: 'drop-shadow(0px -4px 4px rgba(0, 255, 0, 0.5))' }} />
+              <img src="/images/profile.webp" alt="My profile" className='mb-2 rounded-2xl mx-auto w-2/3 max-w-lg md:max-w-sm object-cover md:w-[70rem] shadow-2xl shadow-primary-color/1' style={{ filter: 'drop-shadow(0px -4px 4px rgba(255,255,242.))' }} />
             </div>
         </div>
       </section>
