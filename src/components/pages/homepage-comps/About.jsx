@@ -17,7 +17,7 @@ const About = () => {
         </div>
 
         <p className="mb-4 py-6">
-        👋 Hey, I’m Kevin—a self-taught Frontend Developer and tech enthusiast who’s been all-in on Linux since 2020.
+        👋 Hey, I’m Kevin a self-taught Front End Developer and tech enthusiast who’s been all-in on Linux since 2020.
 
 I come from a Learning & Development background, working in an outsourced call center, training and upskilling teams for major clients like Medtronic and Intuit QuickBooks Online.
 <br /><br />This experience sharpened my ability to break down complex topics, collaborate across teams, and take on high-level responsibilities—skills that now fuel my approach to development.
