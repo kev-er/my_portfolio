@@ -21,8 +21,8 @@ const HomePage = () => {
       <Navbar />
       <Home />
       <About />
-      <Techs />
       <MyProjects />
+      <Techs />
       <Contact />
     </>
   );

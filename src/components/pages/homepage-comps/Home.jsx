@@ -14,7 +14,7 @@ const Home = () => {
             <h1 className='text-4xl md:text-6xl font-bold text-white mb-2 mt-3 md:mt-0 md:mb-4'>I'm Kevin Holm</h1>
 
             <h2 className='rounded-md bg-primary-color/20 max-w-max px-6 inline text-xl md:text-3xl lg:text-4xl font-semibold text-white'>A Front End Developer</h2>
-            <p className='text-gray-300 py-4 max-x-md text-justify'>Living in the UK, England, Guildford area, Surrey.</p>
+            <p className='text-gray-300 py-4 max-x-md text-justify'>Living in the UK, England, Guildford, Surrey.</p>
            <p className='text-gray-300 py-4 max-x-md text-justify'>
           Let's build something great together! 🚀
            </p>
