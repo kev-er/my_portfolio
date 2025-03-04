@@ -8,6 +8,9 @@ import github from "../../../assets/github.png";
 import linux from "../../../assets/linux.png";
 import tailwind from "../../../assets/tailwind.png";
 import sass from "../../../assets/sass.png";
+import nextjs from "../../../assets/nextjs.png";
+import redux from "../../../assets/redux.png";
+import bootstrap from "../../../assets/bootstrap.png";
 
 import { Link as ScrollLink } from "react-scroll";
 
@@ -65,6 +68,24 @@ const Techs = () => {
       id: 9,
       src: sass,
       title: "SASS",
+      style: "shadow-white",
+    },
+    {
+      id: 10,
+      src: nextjs,
+      title: "Nextjs",
+      style: "shadow-white",
+    },
+    {
+      id: 11,
+      src: redux,
+      title: "Redux",
+      style: "shadow-white",
+    },
+    {
+      id: 12,
+      src: bootstrap,
+      title: "Bootstrap",
       style: "shadow-white",
     },
   ];
