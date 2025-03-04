@@ -20,9 +20,9 @@ const HomePage = () => {
     <>
       <Navbar />
       <Home />
-      <About />
-      <MyProjects />
+      <About /> 
       <Techs />
+      <MyProjects />
       <Contact />
     </>
   );

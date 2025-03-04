@@ -30,7 +30,7 @@ Always learning, always building—let’s connect and make something awesome �
       </div>
 
       <ScrollLink
-        to="Projects"
+        to="Technologies"
         smooth
         duration={500}
         className="absolute bottom-2 -left-full md:left-1/2 md:-translate-x-1/2 cursor-pointer hover:text-primary-color"
