@@ -1,11 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import easyshop from '/images/projectsImages/portfolio.webp'
-import pokedex from '/images/projectsImages/ash_kennels.webp'
-import acciovocabulary from '/images/projectsImages/mentoring_website.webp'
-import razorking from '/images/projectsImages/counselling_pratice.webp'
-import rickandmorty from '/images/projectsImages/razor_king.webp'
+import portfolio from '/images/projectsImages/portfolio.webp'
+import ash_kennels from '/images/projectsImages/ash_kennels.webp'
+import mentoring_website from '/images/projectsImages/mentoring_website.webp'
+import counselling_pratice from '/images/projectsImages/counselling_pratice.webp'
+import razor_king from '/images/projectsImages/razor_king.webp'
 
 
 const AllProjects = () => {
@@ -31,7 +31,7 @@ const AllProjects = () => {
         },
         {
             id: 4,
-            src: razor-king,
+            src: razor_king,
             demo: 'https://cute-piroshki-88d7f7.netlify.app/',
             code: 'https://github.com/kev-er/razor_king_barber'
         },

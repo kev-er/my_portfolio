@@ -41,7 +41,7 @@ const MobileSocialLinks = () => {
                     <BsFillPersonLinesFill size={20} /> Resume 
                 </>
             ),
-            href: '/FrontEnd_Developer_KevinHolm.pdf',
+            href: '/Kevin_HolmCV.pdf',
             style: 'rounded-br-md',
             download: true
         }
