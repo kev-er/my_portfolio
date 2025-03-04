@@ -3,8 +3,10 @@ import { Link } from 'react-router-dom'
 
 import easyshop from '/images/projectsImages/portfolio.webp'
 import pokedex from '/images/projectsImages/ash_kennels.webp'
-import acciovocabulary from '/images/projectsImages/mentor-website.webp'
+import acciovocabulary from '/images/projectsImages/mentoring_website.webp'
+import razorking from '/images/projectsImages/counselling_pratice.webp'
 import rickandmorty from '/images/projectsImages/razor_king.webp'
+
 
 const AllProjects = () => {
 
@@ -23,9 +25,9 @@ const AllProjects = () => {
         },
         {
             id: 3,
-            src: mentor-website,
-            demo: 'https://gilded-raindrop-d16b8f.netlify.app/',
-            code: 'https://github.com/kev-er/stronger-together-mentoring'
+            src: counselling_pratice,
+            demo: 'https://holmcounselling.netlify.app',
+            code: 'https://github.com/kev-er/Holm-Counselling'
         },
         {
             id: 4,
@@ -34,6 +36,12 @@ const AllProjects = () => {
             code: 'https://github.com/kev-er/razor_king_barber'
         },
 
+        {
+            id: 5,
+            src: mentoring_website,
+            demo: 'https://strong-coaching.netlify.app/',
+            code: 'https://github.com/kev-er/life-coaching-website'
+        },
 
         ]
 

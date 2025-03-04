@@ -27,15 +27,6 @@ I come from a Learning & Development background, working in an outsourced call c
 Always learning, always building—let’s connect and make something awesome 🚀{" "}
         </p>
 
-        <Link
-          to="/about-me"
-          className="text-black font-semibold text-[16px] w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-t from-green-400 to-primary-color cursor-pointer mx-auto md:mx-0 self-end mt-8 hover:scale-110 duration-300"
-        >
-          See more
-          <span className="">
-            <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
-          </span>
-        </Link>
       </div>
 
       <ScrollLink
