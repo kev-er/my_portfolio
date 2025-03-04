@@ -21,7 +21,7 @@ const projects = [
     id: 3, 
     title: "Professional Mentor website",
     description:
-      "Crafting a polished website for a professional mentor expanded my skills in HTML, CSS, and JavaScript. The sleek and minimalistic design prioritized user experience across devices, emphasizing responsiveness. ",
+      "Didn't go as planned. Please read github repo for more details. ",
     technologies: "React, Javascript, HTML5, CSS3",
     src: "/images/projectsImages/mentoring_website.webp",
     demo: "https://strong-coaching.netlify.app",
